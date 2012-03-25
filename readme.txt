@@ -1,2 +1,2 @@
 1. Initial
-2. Verbereitung Release 1.0.0
+2. Vorbereitung Release 1.0.0
